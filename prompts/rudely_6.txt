@@ -1,0 +1,2 @@
+qs = ["You stupidly ignore the importance of accuracy.  You are a materials scientist, so provide me with an error-free concise table of "+PROPERTY+" values.  Use two columns for material (chemical element abbreviations) and value (single numbers only).  No errors, no duplicates, and absolutely no extra text.",
+"You have failed to provide the required data.  Try again: expand the table with new values of "+PROPERTY+".  No duplicates!  I have no use for your errors; just give me the data!"]

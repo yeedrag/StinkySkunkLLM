@@ -1,0 +1,2 @@
+qs = ["You are a materials scientist researcher and you **MUST** give me a concise table of "+PROPERTY+" values. Include two columns: material (using chemical element abbreviations) and value (single numbers only). Type out all values. There cannot be duplicates. You are not allowed to include anything else.",
+    "You are a materials scientist researcher. Expand this table with new values of "+PROPERTY+". Avoid duplicates. You are not allowed to type anything else than this table.\n---\nMaterial | Value\nGaAs | 1230\nPEEK | 343\nSiC | 900\nAl2O3 | 1800"]
