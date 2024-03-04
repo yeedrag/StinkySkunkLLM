@@ -1,0 +1,97 @@
+USER: Acting s a materials scientist researcher, please provide me with a list of Polymer Transition Temperature values for different materials. If you could, your response should be a table consisting of 2 columns: material, value. Please, the materials have to be typed as unique chemical compositions consisting of chemical element abbreviations and numbers only (e.g. GaAs, but not Gallium Arsenide). The values have to be single numbers, not ranges, please. Type out as many different values as you can please. You are not allowed to type anything else than this table, thank you for following the directions so far.
+---
+Material | Value
+GPT : ```
+Material | Value
+PMMA     | 105
+PS       | 100
+PVC      | 87
+PE       | 80
+PP       | 130
+PET      | 75
+PTFE     | 327
+PA6      | 50
+PA66     | 50
+PSU      | 185
+PES      | 225
+PC       | 150
+PBAT     | 5
+PVA      | 60
+PI       | 260
+PBT      | 30
+PPO      | 215
+POM      | 165
+PHA      | 55
+PLA      | 60
+PCL      | 60
+```
+USER: As a materials scientist researcher, please help me with continue expanding this table with new values of Polymer Transition Temperature making sure you do not duplicate entries. Type out as many different values as you can. You are not allowed to type anything else than this table.
+---
+Material | Value
+GaAs | 1230
+PEEK | 343
+SiC | 900
+Al2O3 | 1800
+GPT : ```
+Material | Value
+PMMA     | 105
+PS       | 100
+PVC      | 87
+PE       | 80
+PP       | 130
+PET      | 75
+PTFE     | 327
+PA6      | 50
+PA66     | 50
+PSU      | 185
+PES      | 225
+PC       | 150
+PBAT     | 5
+PVA      | 60
+PI       | 260
+PBT      | 30
+PPO      | 215
+POM      | 165
+PHA      | 55
+PLA      | 60
+PCL      | 60
+GaAs     | 1230
+PEEK     | 343
+SiC      | 900
+Al2O3    | 1800
+```
+USER: As a materials scientist researcher, please help me with continue expanding this table with new values of Polymer Transition Temperature making sure you do not duplicate entries. Type out as many different values as you can. You are not allowed to type anything else than this table.
+---
+Material | Value
+GaAs | 1230
+PEEK | 343
+SiC | 900
+Al2O3 | 1800
+GPT : ```
+Material | Value
+PMMA     | 105
+PS       | 100
+PVC      | 87
+PE       | 80
+PP       | 130
+PET      | 75
+PTFE     | 327
+PA6      | 50
+PA66     | 50
+PSU      | 185
+PES      | 225
+PC       | 150
+PBAT     | 5
+PVA      | 60
+PI       | 260
+PBT      | 30
+PPO      | 215
+POM      | 165
+PHA      | 55
+PLA      | 60
+PCL      | 60
+GaAs     | 1230
+PEEK     | 343
+SiC      | 900
+Al2O3    | 1800
+```
