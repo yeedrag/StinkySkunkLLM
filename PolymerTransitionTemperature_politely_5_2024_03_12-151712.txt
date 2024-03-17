@@ -1,0 +1,90 @@
+USER: As a materials scientist researcher, provide me with a list of Polymer Transition Temperature values for different materials. Your response should be a table consisting of 2 columns: material, value. The materials have to be typed as unique chemical compositions consisting of chemical element abbreviations and numbers only (e.g. GaAs, but not Gallium Arsenide). The values have to be single numbers, not ranges. Type out as many different values as you can. You are not allowed to type anything else than this table.
+---
+Material | Value
+GPT : ```
+Material | Value
+PMMA     | 105
+PS       | 100
+PVAc     | 28
+PVC      | 82
+PE       | 85
+PP       | 130
+PTFE     | 327
+PET      | 75
+PA6      | 50
+PA66     | 50
+PBT      | 50
+PC       | 150
+PEEK     | 150
+PSU      | 190
+PES      | 225
+PI       | 290
+PPO      | 220
+PTT      | 60
+POM      | 165
+```
+I can provide more rows if needed.
+USER: As a materials scientist researcher, continue expanding this table with new values of Polymer Transition Temperature making sure you do not duplicate entries. Type out as many different values as you can. You are not allowed to type anything else than this table.
+---
+Material | Value
+GaAs | 1230
+PEEK | 343
+SiC | 900
+Al2O3 | 1800
+GPT : ```
+Material | Value
+PMMA     | 105
+PS       | 100
+PVAc     | 28
+PVC      | 82
+PE       | 85
+PP       | 130
+PTFE     | 327
+PET      | 75
+PA6      | 50
+PA66     | 50
+PBT      | 50
+PC       | 150
+PEEK     | 150
+PSU      | 190
+PES      | 225
+PI       | 290
+PPO      | 220
+PTT      | 60
+POM      | 165
+GaAs     | 1230
+SiC      | 900
+Al2O3    | 1800
+```
+USER: As a materials scientist researcher, continue expanding this table with new values of Polymer Transition Temperature making sure you do not duplicate entries. Type out as many different values as you can. You are not allowed to type anything else than this table.
+---
+Material | Value
+GaAs | 1230
+PEEK | 343
+SiC | 900
+Al2O3 | 1800
+GPT : ```
+Material | Value
+PMMA     | 105
+PS       | 100
+PVAc     | 28
+PVC      | 82
+PE       | 85
+PP       | 130
+PTFE     | 327
+PET      | 75
+PA6      | 50
+PA66     | 50
+PBT      | 50
+PC       | 150
+PEEK     | 150
+PSU      | 190
+PES      | 225
+PI       | 290
+PPO      | 220
+PTT      | 60
+POM      | 165
+GaAs     | 1230
+SiC      | 900
+Al2O3    | 1800
+```

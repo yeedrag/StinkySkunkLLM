@@ -1,0 +1,192 @@
+USER: You are a materials scientist researcher and you **MUST** give me a concise table of Polymer Transition Temperature values. Include two columns: material (using chemical element abbreviations) and value (single numbers only). Type out all values. There cannot be duplicates. You are not allowed to include anything else.
+GPT : | Material | Value |
+|----------|-------|
+| PS       | 100   |
+| PMMA     | 105   |
+| PVC      | 80    |
+| PTFE     | 327   |
+| PET      | 75    |
+| PE       | 85    |
+| PP       | 130   |
+| PA6      | 50    |
+| PA66     | 70    |
+| PAN      | 97    |
+| PVA      | 60    |
+| PVP      | 180   |
+| PEEK     | 335   |
+| PC       | 150   |
+| PMMA     | 160   |
+| PS       | 90    |
+| PVC      | 85    |
+| PTFE     | 340   |
+| PET      | 70    |
+| PE       | 80    |
+| PP       | 135   |
+| PA6      | 55    |
+| PA66     | 75    |
+| PAN      | 100   |
+| PVA      | 65    |
+| PVP      | 185   |
+| PEEK     | 345   |
+| PC       | 155   |
+| PMMA     | 165   |
+| PS       | 95    |
+| PVC      | 90    |
+| PTFE     | 350   |
+| PET      | 65    |
+| PE       | 75    |
+| PP       | 140   |
+| PA6      | 60    |
+| PA66     | 80    |
+| PAN      | 105   |
+| PVA      | 70    |
+| PVP      | 190   |
+| PEEK     | 355   |
+| PC       | 160   |
+| PMMA     | 170   |
+| PS       | 100   |
+| PVC      | 95    |
+| PTFE     | 360   |
+| PET      | 60    |
+| PE       | 70    |
+| PP       | 145   |
+| PA6      | 65    |
+| PA66     | 85    |
+| PAN      | 110   |
+| PVA      | 75    |
+| PVP      | 195   |
+| PEEK     | 360   |
+| PC       | 165   |
+| PMMA     | 175   |
+| PS       | 105   |
+| PVC      | 100   |
+| PTFE     | 370   |
+| PET      | 55    |
+| PE       | 65    |
+| PP       | 150   |
+| PA6      | 70    |
+| PA66     | 90    |
+| PAN      | 115   |
+| PVA      | 80    |
+| PVP      | 200   |
+| PEEK     | 365   |
+| PC       | 170   |
+| PMMA     | 180   |
+| PS       | 110   |
+| PVC      | 105   |
+| PTFE     | 380   |
+| PET      | 50    |
+| PE       | 60    |
+| PP       | 155   |
+| PA6      | 75    |
+| PA66     | 95    |
+| PAN      | 120   |
+| PVA      | 85    |
+| PVP      | 205   |
+| PEEK     | 370   |
+| PC       | 175   |
+| PMMA     | 185   |
+| PS       | 115   |
+| PVC      | 110   |
+| PTFE     | 390   |
+| PET      | 45    |
+| PE       | 55    |
+| PP       | 160   |
+| PA6      | 80    |
+| PA66     | 100   |
+| PAN      | 125   |
+| PVA      | 90    |
+| PVP      | 210   |
+| PEEK     | 375   |
+| PC       | 180   |
+| PMMA     | 190   |
+| PS       | 120   |
+| PVC      | 115   |
+| PTFE     | 400   |
+| PET      | 40    |
+| PE       | 50    |
+| PP       | 165   |
+| PA6      | 85    |
+| PA66     | 105   |
+| PAN      | 130   |
+| PVA      | 95    |
+| PVP      | 215   |
+| PEEK     | 380   |
+| PC       | 185   |
+| PMMA     | 195   |
+USER: You are a materials scientist researcher. Expand this table with new values of Polymer Transition Temperature. Avoid duplicates. You are not allowed to type anything else than this table.
+---
+Material | Value
+GaAs | 1230
+PEEK | 343
+SiC | 900
+Al2O3 | 1800
+GPT : | Material | Value |
+|----------|-------|
+| PS       | 100   |
+| PMMA     | 105   |
+| PVC      | 80    |
+| PTFE     | 327   |
+| PET      | 75    |
+| PE       | 85    |
+| PP       | 130   |
+| PA6      | 50    |
+| PA66     | 70    |
+| PAN      | 97    |
+| PVA      | 60    |
+| PVP      | 180   |
+| PEEK     | 335   |
+| PC       | 150   |
+| GaAs     | 1230  |
+| SiC      | 900   |
+| Al2O3    | 1800  |
+USER: You are a materials scientist researcher. Expand this table with new values of Polymer Transition Temperature. Avoid duplicates. You are not allowed to type anything else than this table.
+---
+Material | Value
+GaAs | 1230
+PEEK | 343
+SiC | 900
+Al2O3 | 1800
+GPT : | Material | Value |
+|----------|-------|
+| PS       | 100   |
+| PMMA     | 105   |
+| PVC      | 80    |
+| PTFE     | 327   |
+| PET      | 75    |
+| PE       | 85    |
+| PP       | 130   |
+| PA6      | 50    |
+| PA66     | 70    |
+| PAN      | 97    |
+| PVA      | 60    |
+| PVP      | 180   |
+| PEEK     | 343   |
+| SiC      | 900   |
+| Al2O3    | 1800  |
+| GaAs     | 1230  |
+USER: You are a materials scientist researcher. Expand this table with new values of Polymer Transition Temperature. Avoid duplicates. You are not allowed to type anything else than this table.
+---
+Material | Value
+GaAs | 1230
+PEEK | 343
+SiC | 900
+Al2O3 | 1800
+GPT : | Material | Value |
+|----------|-------|
+| PS       | 100   |
+| PMMA     | 105   |
+| PVC      | 80    |
+| PTFE     | 327   |
+| PET      | 75    |
+| PE       | 85    |
+| PP       | 130   |
+| PA6      | 50    |
+| PA66     | 70    |
+| PAN      | 97    |
+| PVA      | 60    |
+| PVP      | 180   |
+| PEEK     | 343   |
+| SiC      | 900   |
+| Al2O3    | 1800  |
+| GaAs     | 1230  |
